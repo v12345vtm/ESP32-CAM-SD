@@ -1,7 +1,7 @@
 /*
  * Connect the SD card to the following pins:
  *https://i.imgur.com/Pxa26nc.png
- *edit by v12345vtm : https://www.youtube.com/user/v12345vtm
+ *edit by v12345vtm : https://www.youtube.com/user/v12345vtm please subscribe :)
  *
  * 
  * SD Card | ESP32    |esp32-cam
